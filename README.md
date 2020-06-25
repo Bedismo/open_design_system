@@ -9,4 +9,5 @@ Open Source Design System, I am doing right now have the aim to help designers w
 At the moment, I'm at the first steps of building a core, it has several linked libraries.
 
 Also, I will be very thankful if you will support this project via Patreon.
-<a href="https://www.patreon.com/bePatron?u=15571714" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
+[Become a Patron!](https://www.patreon.com/bePatron?u=15571714)
