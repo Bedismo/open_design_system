@@ -1,4 +1,3 @@
-Inline-style: 
 ![alt text](https://github.com/Bedismo/open_design_system/blob/master/assets/cover_01.png "Logo Title Text 1")
 
 # Open-source design system built in Sketch
