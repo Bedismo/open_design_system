@@ -1,4 +1,4 @@
-# open_design_system
+# Open-source design system built in Sketch
 
 Hi mates! 
 
